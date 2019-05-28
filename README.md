@@ -21,7 +21,7 @@
 
    ```java
    dependencies {
-   	        implementation 'com.github.yangkun19921001:long_picture_view:1.0.1'
+   	        implementation 'com.github.yangkun19921001:long_picture_view:1.0.2'
    	}
    ```
 
