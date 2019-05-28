@@ -43,6 +43,8 @@
     bigView.setImage(BIG_IMAGE_PAHT);
     //加载 InputStream
     bigView.setImage(InputStream is)
+    //加载网络图片 callBack : 加载中的回调
+    bigView.setNetUrl(String url,LoadNetImageCallBack callBack);
    ```
 
 ### 效果对比
